@@ -1,2 +1,3 @@
 # Hello-world
-Uhm? 
+First project. 
+Made some changes(? 
